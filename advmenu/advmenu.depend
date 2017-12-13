@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1509527593 source:e:\iti\new folder\advmenu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1510043598 source:c:\users\hagar\downloads\gotoxy.c
+	<windows.h>
+
